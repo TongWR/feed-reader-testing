@@ -10,9 +10,9 @@
  */
 $(function() {
   /* This is our first test suite - a test suite just contains
-  * a related set of tests. This suite is all about the RSS
-  * feeds definitions, the allFeeds variable in our application.
-  */
+   * a related set of tests. This suite is all about the RSS
+   * feeds definitions, the allFeeds variable in our application.
+   */
   describe('RSS Feeds', function() {
     /* This is our first test - it tests to make sure that the
      * allFeeds variable has been defined and that it is not
